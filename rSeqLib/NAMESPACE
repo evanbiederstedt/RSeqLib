@@ -1,0 +1,3 @@
+useDynLib(rSeqLib)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
