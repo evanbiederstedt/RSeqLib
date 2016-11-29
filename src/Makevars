@@ -1,0 +1,2 @@
+PKG_CXXFLAGS= -I../bwa/ -I../
+PKG_CPPFLAGS= -I../bwa/ -I../
